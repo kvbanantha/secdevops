@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h3>Welcome to Secured DevOps v1.2</h3>
+<h3>Welcome to Secured DevOps v1.3</h3>
 </body>
 </html>
